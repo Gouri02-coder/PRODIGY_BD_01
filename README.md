@@ -23,10 +23,4 @@ A simple REST API to manage users with basic **CRUD operations** using an in-mem
 - Proper HTTP status codes (`201`, `200`, `400`, `404`)
 - Error handling for invalid requests or missing users
 
-## Installation
 
-```bash
-git clone <repo-url>
-cd <repo-folder>
-npm install
-npm start
